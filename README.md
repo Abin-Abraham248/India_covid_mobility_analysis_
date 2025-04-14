@@ -48,13 +48,6 @@ The visualization helps identify the impact of government interventions, lockdow
 
 ---
 
-## 🧠 Author
-
-Made with ❤️ during my learning journey in data analysis and visualization.  
-Open for suggestions and improvements!
-
----
-
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
