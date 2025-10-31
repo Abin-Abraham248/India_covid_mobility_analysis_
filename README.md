@@ -1,4 +1,4 @@
-# India_covid_mobility_analysi# 🇮🇳 COVID-19 & Workplace Mobility Analysis – India
+# India_covid_mobility_analysis 🇮🇳 COVID-19 & Workplace Mobility Analysis – India
 
 This project analyzes the correlation between COVID-19 case trends and workplace mobility in **India**, using two reliable data sources:
 
